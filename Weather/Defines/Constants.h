@@ -11,7 +11,6 @@
 #define END_POINT			@"https://dataservice.accuweather.com"
 #define kOperationTypeGET      @"GET"
 #define API_Key                @"3UY8aDas72CWgnXGuB80pGOM8WwV7PC3"
-//#define API_Key                @"R3jk0ApaeAALJApUSK1GG8q0AGWtiRWU"
 #define kDubai_Key			@"323091"
 #define kUnit          		@"Unit"
 #define kCashedHourly		@"CashedHourly"
