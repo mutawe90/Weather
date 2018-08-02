@@ -15,6 +15,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *morningLabel;
 @property (weak, nonatomic) IBOutlet UIImageView *morningImage;
 @property (weak, nonatomic) IBOutlet UILabel *dateLabel;
+@property (weak, nonatomic) IBOutlet NSLayoutConstraint *scrollHeight;
 
 @property (nonatomic) DailyForecastsModel *model;
 @property (weak, nonatomic) IBOutlet UILabel *morningTemp;
